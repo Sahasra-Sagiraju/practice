@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background: yellow;
+}
+
+p {
+  background-color: black;
+  font-size: 50px;
+  color: white;
+}
